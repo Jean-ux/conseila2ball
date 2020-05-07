@@ -1,0 +1,22 @@
+nav {
+	display: flex;
+	flex-direction: wrap row;
+	margin: 0;
+	background-color: teal;
+
+
+}
+nav ul {
+	background-color: silver;
+
+}
+nav ul li {
+
+}
+nav ul li :hover{
+	background-color: navy;
+	cursor: pointer;
+	color: white;
+
+
+}
